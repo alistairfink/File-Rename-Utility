@@ -5,23 +5,23 @@ Utility to rename all files in folder to a number while preserving file extensio
 Note: This was created for a very niche situation. I don't expect this to be useful for anyone.
 
 ## Example of Usage:
-###Input:
+### Input:
 ```
 Enter Full Absolute Path: C:\test
 ```
-###Output:
+### Output:
 ```
 Renamed: C:\test\dab.txt to: C:\test\1.txt
 Renamed: C:\test\yeet.txt to: C:\test\2.txt
 Renamed: C:\test\yolo.txt to: C:\test\3.txt
 ```
-###Directory Before:
+### Directory Before:
 ```
 dab.txt
 yeet.txt
 yolo.txt
 ```
-###Directory After:
+### Directory After:
 ```
 1.txt
 2.txt
